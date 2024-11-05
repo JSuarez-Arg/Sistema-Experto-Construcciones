@@ -1,4 +1,4 @@
-![Portada](reports/figures/Portada.png)
+![Portada](frontend/frontend/src/images/Portada.png) 
 
 # Sistema Experto de Construcción
 
