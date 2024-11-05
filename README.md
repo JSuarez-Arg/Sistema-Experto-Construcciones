@@ -10,4 +10,4 @@
 * Este documento describe la organización del conocimiento en un sistema experto para la colocación de pisos en viviendas familiares, adaptado específicamente para las condiciones climáticas y técnicas de Tierra del Fuego, Argentina.
 * [Ver Documento](documentacion/ProyectoSistemaExperto.pdf)
 ## Instalación del Sistema Experto
-* [Ver Documento](references/Instalacion.pdf)
+* [Ver Documento](documentacion/Instalacion.pdf)
