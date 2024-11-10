@@ -18,3 +18,6 @@ Para configurar el Sistema Experto de Construcciones, se utilizarán las siguien
 Antes de comenzar, asegúrate de tener instalados Python, Node.js y Postman en tu entorno de desarrollo. A continuación, se proporcionan los pasos para instalar las dependencias necesarias y ejecutar el sistema.
 
 * [Ver Documento](documentacion/Instalacion.pdf)
+
+## Licencia
+Este proyecto está licenciado bajo MIT License.
