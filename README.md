@@ -1,10 +1,11 @@
 ![Portada](frontend/frontend/src/images/Portada.png) 
 
-# Sistema Experto de Construcción
+# Sistema Experto de Construcciones: 
+# "Selección y Colocación de Pisos en Viviendas Familiares."
 
-## **Sistema Experto para la Selección y Colocación de Pisos en Viviendas Familiares.**
-* Este documento describe la organización del conocimiento en un sistema experto para la colocación de pisos en viviendas familiares, adaptado específicamente para las condiciones climáticas y técnicas de Tierra del Fuego, Argentina.
-* [Ver Documento](documentacion/ProyectoSistemaExperto.pdf)
+![Tipos_de_Pisos](frontend/frontend/src/images/tipos_de_pisos.png)
+
+* Este documento describe la organización del conocimiento en un sistema experto para la colocación de pisos en viviendas familiares, adaptado específicamente para las condiciones climáticas y técnicas de Tierra del Fuego, Argentina. ---> [Ver Documento](documentacion/ProyectoSistemaExperto.pdf)
 ## Instalación del Sistema Experto
 Para configurar el Sistema Experto de Construcciones, se utilizarán las siguientes tecnologías:
 
@@ -15,9 +16,7 @@ Para configurar el Sistema Experto de Construcciones, se utilizarán las siguien
 * **React:** Una biblioteca de JavaScript para construir interfaces de usuario. React se utilizará para desarrollar el frontend del sistema experto, permitiendo una interacción fluida y dinámica con el usuario, así como una representación visual de los resultados que proporciona el sistema.
 
 * **Requisitos previos**
-Antes de comenzar, asegúrate de tener instalados Python, Node.js y Postman en tu entorno de desarrollo. A continuación, se proporcionan los pasos para instalar las dependencias necesarias y ejecutar el sistema.
-
-* [Ver Documento](documentacion/Instalacion.pdf)
+Antes de comenzar, asegúrate de tener instalados Python, Node.js y Postman en tu entorno de desarrollo. A continuación, se proporcionan los pasos para instalar las dependencias necesarias y ejecutar el sistema. ---> [Ver Documento](documentacion/Instalacion.pdf)
 
 ## Licencia
 Este proyecto está licenciado bajo MIT License.
