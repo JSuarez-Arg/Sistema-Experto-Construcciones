@@ -18,5 +18,10 @@ Antes de comenzar, asegúrate de tener instalados Python, Node.js y Postman en t
 
 * **React:** Una biblioteca de JavaScript para construir interfaces de usuario. React se utilizará para desarrollar el frontend del sistema experto, permitiendo una interacción fluida y dinámica con el usuario, así como una representación visual de los resultados que proporciona el sistema.
 
+## Video Explicativo
+GitHub no permite la reproducción de este video en línea desde este repositorio, por eso para poder verlo hay que seguir la instrucción que brindo en el siguiente ítem:
+
+* [Descargar Video Explicativo - Click en "View Raw"](video/SistemaExpertoConstrucciones_SuarezJonatan.mp4)
+
 ## Licencia
 Este proyecto está licenciado bajo MIT License.
